@@ -243,3 +243,51 @@ main .whole {
     color: #627382;
     margin: 0 auto 24px;
 }
+
+footer {
+    background-color: #001931;
+}
+
+footer .footer-container {
+    padding: 120px 120px 30px;
+}
+
+.footer-container .div1 {
+    width: 85%;
+    margin: 0 auto 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-container .div1 h3 {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 500;
+    color: white;
+
+    margin-bottom: 10px;
+}
+
+.icons .link-btn {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: none;
+
+    margin-right: 16px; 
+}
+
+.fa-facebook {
+    font-size: 19px;
+    color: white;
+    padding-top: 10px;
+}
+
+.footer-container .div2 {
+    color: white;
+    line-height: 24px;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
